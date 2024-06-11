@@ -1,0 +1,49 @@
+* {
+    font-family: Arial;
+}
+
+body {
+    background-color: #797979;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+}
+
+.conteudo1 {
+    margin: auto;
+    background-color: #444444b6;
+    padding: 10px;
+    width: 250px;
+    height: 400px;
+    border-radius: 10px;
+}
+
+.formulario{
+    text-align: center;
+    color: white;
+}
+
+.formulario #nome {
+    margin: 10px;
+}
+
+.formulario #email {
+    margin: 10px;
+}
+
+.formulario #senha {
+    margin: 10px;
+}
+
+img {
+    position: relative;
+    top: 10px;
+    left: 75px;
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    margin-bottom: 35px;
+}
+
